@@ -1,4 +1,4 @@
-# FakeFullName_RU
+# FakeFullName
 Program, that generates fake full names for dubious forms, surveys, etc.
 It can also help with choosing a creative pseudonym, anonymizing yourself online and, for example, creating characters for your projects.
 > Currently only one program language is available - it is Russian.
