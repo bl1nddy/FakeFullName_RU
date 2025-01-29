@@ -4,6 +4,9 @@ It can also help with choosing a creative pseudonym, anonymizing yourself online
 > Currently only one program language is available - it is Russian.
 > Program will be updated in the future.
 
+
+
+The development of the project will continue indefinitely. 😭
 **Now use it!**
 -----------------------------------------------------------------------------------------------------------------------------------------
 # FakeFullName_RU
@@ -12,4 +15,6 @@ It can also help with choosing a creative pseudonym, anonymizing yourself online
 > Сейчас доступен лишь один язык программы - это русский язык.
 > Программа будет обновлятся в дальнейшем.
 
+
+Разработка проекта будет продолжатся неограниченное количество времени. 😭
 **А теперь - используйте его!**
